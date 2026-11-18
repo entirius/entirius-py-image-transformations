@@ -1,6 +1,6 @@
 [project]
 name = "entirius-py-image-transformations"
-version = "2.0.0"
+version = "2.0.1"
 description = "Image resize and background removal (Pillow + OpenCV), part of Entirius, the open-source modular ecommerce platform"
 keywords = ["image", "resize", "background-removal", "pillow", "opencv", "entirius"]
 classifiers = [
